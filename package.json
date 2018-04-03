@@ -1,6 +1,6 @@
 {
   "name": "@cryptochain/monero-nodejs",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "A Monero library written in Node.js.",
   "main": "./lib/wallet.js",
   "scripts": {
